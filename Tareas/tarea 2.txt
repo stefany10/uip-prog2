@@ -1,0 +1,28 @@
+TAREA
+PROGRAMAION DE COMPUTADORAS #2
+
+1-	QUE ES JAVAFX
+Se conoce que javaFX está basado en java, y este permite a los desarrolladores crear aplicaciones de internet
+que tienen la característica de comportase de la misma forma en diferentes plataformas.
+En Java FX se logra ampliar la potencia de Java que permite a los usuarios utilizar cualquier biblioteca de 
+java en aplicaciones JavaFX algunas mejoras que permite crear un un aspecto vanguardista y contenidos avanzados, audio y vídeo..
+
+2-COMO SE INSTALA
+La descarga de Java FX es gratuita
+Como primer paso Para poder ejecutar las aplicaciones de JavaFX, debe tener Java Runtime Environment (JRE) y JavaFX Runtime 
+alguno de estos deben estar en nuestro equipo.
+1-Iniciamos el NetBeans 
+2-vamos al menú principal elijan Tools->Plugins 
+3-En la ventana que les aparecera seleccionen la pestaña Settings y activen todos los centros de Updates que tengan disponibles.
+ Elijimos todos porque los otros centros pueden tener algunas de las dependencias que necesitamos. 
+5-Ahora seleccionamos la pestaña de Available Plugins y hacemos click en el boton Reload Catalog para que actualize la lista. 
+6-Ahora en el campo de busqueda que dice Search escriban "javafx" 
+7-Marquen para instalar todos los plugins que digan JavaFX que encuentren, en general solo aparecen 3 y despues hagan click en el boton Install 
+8-Les apareceran unas cuantas ventanas mas en las que solo deberan poner Continue o Next. 
+9-Despues de que se terminan de bajar e instalar los plugins les pedira reiniciar el NetBeans IDE y listo. Ya tendran instalado JavaFX. 
+Al descargar JavaFX  JavaFX Runtime
+BorderPane GridPane TilePane StackPane
+
+3-COMO FUNCIONA
+Nosotros como usuarios podremos ejecutar aplicaciones JavaFX en un explorador o arrastrarlos y soltarlos en el escritorio, no lo podremos 
+ejecutar las aplicaciones  si no tenemos java
